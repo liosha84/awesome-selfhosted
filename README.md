@@ -1716,7 +1716,7 @@ _Related: [Monitoring & Status Pages](#monitoring--status-pages), [Bookmarks and
 - [ryot](https://github.com/ignisda/ryot) - Track various facets of your life - media, fitness, etc. ([Demo](https://github.com/IgnisDa/ryot?tab=readme-ov-file#-demo)) `GPL-3.0` `Docker`
 - [Starbase 80](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
 - [Your Spotify](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
-
+- [htop-web](https://gitea.jambotron.com/Liosha84/htop-web) - A self-hosted, browser-based system monitoring dashboard powered by Angular and Spring Boot. `MIT` `Docker`
 
 ### Photo Galleries
 
